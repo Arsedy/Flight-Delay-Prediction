@@ -18,7 +18,7 @@ The target label is created from delay component columns by selecting the delay 
 ---
 
 ## Dataset
--link : https://www.kaggle.com/datasets/usdot/flight-delays
+- Link : https://www.kaggle.com/datasets/usdot/flight-delays
 - File: `flights.csv`
 - Common columns used:
   - Date features: `YEAR, MONTH, DAY, DAY_OF_WEEK`
